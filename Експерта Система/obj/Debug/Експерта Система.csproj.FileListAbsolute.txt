@@ -1,0 +1,10 @@
+C:\Users\ashyk\Desktop\Експерта Система\bin\Debug\Експерта Система.exe.config
+C:\Users\ashyk\Desktop\Експерта Система\bin\Debug\Експерта Система.exe
+C:\Users\ashyk\Desktop\Експерта Система\bin\Debug\Експерта Система.pdb
+C:\Users\ashyk\Desktop\Експерта Система\obj\Debug\Експерта Система.csproj.AssemblyReference.cache
+C:\Users\ashyk\Desktop\Експерта Система\obj\Debug\Експерта_Система.Form1.resources
+C:\Users\ashyk\Desktop\Експерта Система\obj\Debug\Експерта_Система.Properties.Resources.resources
+C:\Users\ashyk\Desktop\Експерта Система\obj\Debug\Експерта Система.csproj.GenerateResource.cache
+C:\Users\ashyk\Desktop\Експерта Система\obj\Debug\Експерта Система.csproj.CoreCompileInputs.cache
+C:\Users\ashyk\Desktop\Експерта Система\obj\Debug\Експерта Система.exe
+C:\Users\ashyk\Desktop\Експерта Система\obj\Debug\Експерта Система.pdb
